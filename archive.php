@@ -1,6 +1,4 @@
-<?php
-  get_header();
-?>
+<?php get_header('dark');?>
 
 <div class="archive-content post-content">
   <?php

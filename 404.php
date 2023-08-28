@@ -1,6 +1,6 @@
 <?php
 /* 404 page */
-  get_header();
+ get_header('dark');
 ?>
 <link rel="stylesheet" href="<?php bloginfo('stylesheet_url'); ?>">
 
